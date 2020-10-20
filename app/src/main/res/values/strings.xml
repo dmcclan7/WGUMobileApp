@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WGU Term Tracker</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_wgu_term">WGU Terms</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+    <string name="new_term">New Term</string>
+    <string name="title_activity_new_term_form">New Term Form</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="start_month">Start Month:</string>
+    <string name="start_year">Start Year:</string>
+    <string name="term_title">Term Title:</string>
+    <string name="term_1_term_2_etc">Term 1, Term 2, etc..</string>
+    <string name="add_sample_data">Add Sample Data</string>
+
+
+</resources>
